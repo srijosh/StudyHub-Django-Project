@@ -21,14 +21,14 @@ The development server will be started at http://127.0.0.1:8000/
 <p>
   Home Page
 </p>
-<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/0948b5a6-6a17-4122-855d-9829b46d13fb">
+<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/b6642695-188d-4644-952d-11f8c9fc0332">
 </td> 
 <td width="25%">
 
 <p>
   Conversation Page
 </p>
-<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/c9ee0c4d-0f4e-46d9-9cdd-0ea9ca895af5">  
+<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/5bb08856-0923-4d64-8a1b-6720c54b9dca">  
 </td>
 <td width="25%">
 
@@ -36,13 +36,14 @@ The development server will be started at http://127.0.0.1:8000/
   Profile Page
 </p>
 
-<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/2c18264e-f912-4aca-b6a7-e71bdcb09fa5">  
+<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/f6a1b2f5-5033-4400-8c0a-f1bacd70e3b6">  
 </td>
 <td width="25%">
 
 <p>
   Topic Browsing Page
 </p>
-<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/2b3a6c4a-6595-4760-9a73-4123d96a2049">  
+<img src="https://github.com/srijosh/StudyHub-Django-Project/assets/114895131/9e7e5b19-76aa-47e8-8cb0-879ab27e2fa6">  
 </td>
 </table>
+
